@@ -1,0 +1,36 @@
+{
+    "description": "This is game #3",
+    "external_url": "https://wfp2002.github.io/myfirstgame2/",
+    "image": "https://raw.githubusercontent.com/wfp2002/myfirstgame2/main/game.png",
+    "name": "MyGame #3",
+    "animation_url": "https://raw.githubusercontent.com/wfp2002/myfirstgame2/main/game.png",
+    "interactive_nft": {
+      "code_uri": "https://raw.githubusercontent.com/wfp2002/myfirstgame2/main/game.png",
+      "version": "1.0"
+    },
+    "attributes": [
+      {
+        "trait_type": "Character",
+        "value": "White Wolf"
+      },
+      {
+        "trait_type": "Size",
+        "value": "Small"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Scene Count",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Grid Size",
+        "value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Biome Limit",
+        "value": 1
+      }
+    ]
+  }
