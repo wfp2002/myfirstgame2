@@ -1,0 +1,36 @@
+{
+    "description": "This is plot #1 of Etherjump\n\nPlay in fullscreen or on mobile at: https://play.etherjump.game/1\n\nControls:\n\n- WASD/Arrow Keys to move\n\n- Space to dash\n\n- Esc to pause",
+    "external_url": "https://play.etherjump.game/1",
+    "image": "https://play.etherjump.game/thumbnails/White Wolf_Small.gif",
+    "name": "Etherjump Plot #1",
+    "animation_url": "https://play.etherjump.game/1",
+    "interactive_nft": {
+      "code_uri": "https://js13kgames.com/public/games/onoff/index.html",
+      "version": "1.0"
+    },
+    "attributes": [
+      {
+        "trait_type": "Character",
+        "value": "White Wolf"
+      },
+      {
+        "trait_type": "Size",
+        "value": "Small"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Scene Count",
+        "value": 5
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Grid Size",
+        "value": 100
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Biome Limit",
+        "value": 1
+      }
+    ]
+  }
