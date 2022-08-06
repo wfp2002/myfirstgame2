@@ -1,11 +1,11 @@
 {
-    "description": "This is plot #1 of Etherjump\n\nPlay in fullscreen or on mobile at: https://play.etherjump.game/1\n\nControls:\n\n- WASD/Arrow Keys to move\n\n- Space to dash\n\n- Esc to pause",
+    "description": "This is game #1",
     "external_url": "https://wfp2002.github.io/myfirstgame2/",
-    "image": "https://play.etherjump.game/thumbnails/White Wolf_Small.gif",
-    "name": "Etherjump Plot #1",
-    "animation_url": "https://play.etherjump.game/1",
+    "image": "https://raw.githubusercontent.com/wfp2002/myfirstgame2/main/game.png",
+    "name": "MyGame #1",
+    "animation_url": "https://raw.githubusercontent.com/wfp2002/myfirstgame2/main/game.png",
     "interactive_nft": {
-      "code_uri": "https://js13kgames.com/public/games/onoff/index.html",
+      "code_uri": "https://raw.githubusercontent.com/wfp2002/myfirstgame2/main/game.png",
       "version": "1.0"
     },
     "attributes": [
